@@ -3,7 +3,7 @@ heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
 title: Our Coffee
-image: /img/1.jpg
+image: /img/blog-index.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -25,13 +25,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/1.jpg
+    image: /img/blog-index.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/1.jpg
+    image: /img/products-grid3.jpg
   image3:
     alt: Coffee beans
-    image: /img/1.jpg
+    image: /img/products-grid3.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -39,7 +39,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/11.jpg
+full_image: /img/flavor_wheel.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
