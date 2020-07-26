@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maisha Photography
-image: /img/img_0521.jpg
+image: /img/blog-index.jpg
 heading: Family Photography
 subheading: Family Photography
 mainpitch:
@@ -16,7 +16,9 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/products-grid3.jpg
+      text: test
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -32,11 +34,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/1.jpg
+    image: /img/products-full-width.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/1.jpg
+    image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/1.jpg
+    image: /img/products-grid2.jpg
 ---
