@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maisha Photography
-image: /img/k11.jpg
+image: /img/img_2620.jpg
 heading: Family Photography
 subheading: Family Photography
 mainpitch:
