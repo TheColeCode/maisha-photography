@@ -18,8 +18,8 @@ tags:
 
 ![Between buildings](/img/5-bw.jpg "Between buildings")
 
-![Clock Tower](/img/0914img_4121.jpg "Clock Tower")
+![Clock Tower](/img/0914img_4121-web.jpg "Clock Tower")
 
-![Clock Tower Close up](/img/img_4116-2.jpg "Clock Tower Close up")
+![Clock Tower Close up](/img/img_4116-2-web.jpg "Clock Tower Close up")
 
-![Cool building](/img/img_4088-2.jpg "Cool building")
+![Cool building](/img/img_4088-2-web.jpg "Cool building")
