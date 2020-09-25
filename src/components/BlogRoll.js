@@ -7,6 +7,12 @@ class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    const truncate = input => {
+      if (input.length > 60) {
+        return input.substring(0, 60) + '...';
+     }
+     return input
+    };
 
     return (
       <div className="columns is-multiline">
@@ -29,25 +35,24 @@ class BlogRoll extends React.Component {
                       />
                     </div>
                   ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
+                <p className="post-meta">
+                  <Link
+                    className="title has-text-primary is-size-4"
+                    to={post.fields.slug}
+                  >
+                    {post.frontmatter.title}
+                  </Link>
+                  {/* <span className="subtitle is-size-5 is-block">
+                    {post.frontmatter.date}
+                  </span> */}
+                </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {truncate(post.excerpt)}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    View →
                   </Link>
                 </p>
               </article>

@@ -10,6 +10,8 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 $platinum: #e5e4e2
+body *
+  font-family: 'Cormorant', serif;
 
 nav.navbar
   background-color:#fff
@@ -48,7 +50,7 @@ nav.navbar
   right: 50%
   margin: 2em -50vw
   background-size: cover
-  background-position: bottom
+  background-position: top
   display: flex
   justify-content: center
   align-items: center
@@ -127,7 +129,7 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #fff;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
@@ -143,6 +145,8 @@ $menu-label-color: $white-ter
 +tablet-only
   .blog-list-item .featured-thumbnail
     flex-basis: 50%;
+  .hero-image-index
+    display: none;
 
 +mobile
   .blog-list-item header
@@ -151,3 +155,5 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+  .hero-image-index
+    display: none;
