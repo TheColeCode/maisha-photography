@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Maisha Photography
-image: /img/img_2620.jpg
+image: /img/eunice-ndegwaart-23-final121620eunice-ndegwaart-23-final121620img_7340.jpg
 heading: Family Photography
 subheading: Family Photography
 mainpitch:
