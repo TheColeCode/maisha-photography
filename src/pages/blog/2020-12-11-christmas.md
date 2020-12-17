@@ -12,3 +12,5 @@ tags:
 ![Christmas Photos with Children](/img/eunice-ndegwaart-23-final121620eunice-ndegwaart-23-final121620img_7263.jpg "Christmas Photos with Children")
 
 ![Child with Cookie](/img/eunice-ndegwaart-23-final121620eunice-ndegwaart-23-final121620img_7138.jpg "Child with cookie")
+
+![Kid eating Christmas cookies](/img/eunice-ndegwaart-23-final121620eunice-ndegwaart-23-final121620img_7340.jpg "Kid eating Christmas cookies")
